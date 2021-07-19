@@ -1,0 +1,142 @@
+*{
+    text-decoration: none;
+    list-style: none;
+}
+
+#navigation{
+    display: flex;
+    background-color: rgba(0, 0,0,0.4 );
+    height: 100px;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    
+}
+
+#nav{
+    display: flex;
+    
+
+}
+#nav ul li a{
+    font-size: 50px;
+    color: white;
+    font-size: larger;
+    padding:  10px;
+    margin: 60px;
+    transition: .8 ease-in-out;
+    
+    
+}
+#nav ul li a:hover{
+    background-color: whitesmoke;
+    color: black;
+    box-shadow: blanchedalmond;
+}
+
+.kenya{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0,0,0.8 );
+
+   
+}
+#head{
+        padding: 10px;
+        text-align: center;
+        color: whitesmoke;
+        font-size: 25px;
+        /* background-color: rgba(0, 0,0,0.8 ); */
+    
+    
+}
+body{
+    padding-top: 50px;
+    height: 100%;
+    background-image: url("img/elepahnt.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    opacity: 0.8;
+}
+
+#head{
+    width: 500px;
+    padding-top: 150px;
+    
+}
+.footer1{
+    padding: 10px;
+   text-align: center;
+  
+  
+}
+#foot1{
+    padding: 10px;
+    text-align: center;
+    color: whitesmoke;
+    font-weight: bolder;
+    /* font-size: 10px; */
+    background-color: rgba(0, 0,0,0.4 );
+}
+.footer{
+    padding: 20px;
+   text-align: center;
+  
+  
+}
+#foot{
+    padding: 10px;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 25px;
+    background-color: rgba(0, 0,0,0.4 );
+}
+
+#link{
+    padding-top: 50px;
+}
+
+
+#link li a{
+    
+    padding:10px 20px;
+    color: white;
+    transition: .6 ease-in-out;
+
+
+}
+#link li a:hover{
+    background-color: wheat;
+    color: black;
+    box-shadow: whitesmoke;
+
+}
+
+#navigation0{
+    display: flex;
+    background-color: rgba(0, 0,0,0.4 );
+    height: 100px;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    
+}
+
+#nav0{
+    display: flex;
+    
+
+}
+#nav0 ul li a{
+    color: white;
+    font-size: larger;
+    padding:  20px;
+    transition: .8 ease-in-out;
+    
+    
+}
+#nav0 ul li a:hover{
+    background-color: whitesmoke;
+    color: black;
+    box-shadow: blanchedalmond;
+}

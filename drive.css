@@ -1,0 +1,140 @@
+*{
+    text-decoration: none;
+    list-style: none;
+}
+
+#navigation{
+    display: flex;
+    background-color: rgba(0, 0,0,0.4 );
+    height: 100px;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    
+}
+
+#nav{
+    display: flex;
+    
+
+}
+#nav ul li a{
+    font-size: 50px;
+    color: white;
+    font-size: larger;
+    padding:  10px;
+    margin: 60px;
+    transition: .8 ease-in-out;
+    
+    
+}
+#nav ul li a:hover{
+    background-color: whitesmoke;
+    color: black;
+    box-shadow: blanchedalmond;
+}
+#drive{
+    height: 500px;
+    width: 100%;
+    background-color: rgba(0, 0,0,0.2 );
+}
+#flex{
+    display: flex;
+}
+#box{
+    width: 50%;
+    height: 400px;
+    text-align: center;
+    background-image: url("img/Drive/nature1.jpeg");
+    background-size: 100% 100%;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 30px;
+}
+
+#box0{
+    width: 50%;
+    height: 400px;
+    text-align: center;
+    background-image: url("img/Drive/nature2.jpeg");
+    background-size: 100% 100%;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 30px;
+}
+
+#box01{
+    width: 50%;
+    height: 400px;
+    text-align: center;
+    background-image: url("img/Drive/nature3.jpeg");
+    background-size: 100% 100%;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 30px;
+}
+
+#box02{
+    width: 50%;
+    height: 400px;
+    text-align: center;
+    background-image: url("img/Drive/nature4.jpeg");
+    background-size: 100% 100%;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 30px;
+}
+#box03{
+    width: 50%;
+    height: 400px;
+    text-align: center;
+    background-image: url("img/Drive/nature5.jpeg");
+    background-size: 100% 100%;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 30px;
+}
+#box04{
+    width: 50%;
+    height: 400px;
+    text-align: center;
+    background-image: url("img/elepahnt.jpg");
+    background-size: 100% 100%;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 30px;
+}
+
+#box1{
+    width: 50%;
+    height: 400px;
+    text-align: center;
+    
+}
+#image1 h2{
+    color: maroon;
+    font-size: 50px;
+    
+}
+#image1 p{
+    font-size: 30px;
+}
+#image1 ul li a{
+    color: whitesmoke;
+    font-size: larger;
+    padding:  20px;
+    transition: .8 ease-in-out;
+    
+    
+}
+#image1 ul li a:hover{
+    background-color: whitesmoke;
+    color: black;
+    box-shadow: blanchedalmond;
+}
+.link{
+    padding-top: 20px;
+}
+body{
+    background-color: rgba(0, 0,0,0.1 );
+}
